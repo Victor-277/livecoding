@@ -1,0 +1,146 @@
+body{
+margin-top: 0px;
+padding: 0px; 
+background-color: #F3F4FE;   
+}
+main{
+    background-color: #F3F4FE;
+}
+.nav-link{
+color:#0E0A47;
+font-size: 20px;
+font-weight: medium;
+}
+.navbar{
+    position: fixed;
+    margin-top: -150px;
+    background-color: white;
+    width: 100%;
+}
+.dada{
+margin-left: 100px;
+}
+.mat{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.bot{
+    background-color: #0E0A47;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+}
+.thy{
+margin-left: 100px;
+}
+.tacj{
+    overflow-x: hidden;
+    margin-top: 150px;
+}
+.here{
+    background-color: #D0D8FC;
+    width: 40%;
+    text-align: center;
+    padding: 5px 0px 5px 10px;
+    margin-top: 100px;
+
+}
+.tata{
+    margin-left: 100px;
+}
+.ret{
+background-color: #0E0A47;
+color: white;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    margin-left: 20px;
+}
+.ret:hover{
+    background-color: #B87F15;
+}
+.demo{
+    border: none;
+    background-color: white;
+    color: #0E0A47;
+}
+.demo:hover{
+    background-color: #D7E0FF;
+}
+.All{
+    font-size: 20px;
+}
+.tetet{
+    background-color: white;
+}
+ 
+@media screen  and (max-width:481px){
+    main{
+        overflow-x: hidden;
+        background-color: #F3F4FE;
+    }
+     .navbar-toggler{
+        margin-left: 100px;
+     }
+     .navbar{
+        background-color: white;
+        margin-top: -10px;
+        width: 100%;
+        position: fixed;
+     }
+    .mat{
+        margin-left: 1px;
+        margin-top: 10px;
+        
+    }   
+    .bot{
+        display: none;
+    }
+    .tog{
+        display: none;
+
+    }
+    .tacj{
+        overflow-x: hidden;
+        margin-top: 10px;
+    }
+    .here{
+        background-color: #D0D8FC;
+        width: 80%;
+        margin-left: 10px;
+         text-align: center;
+        margin-top: px;
+    
+    }
+    
+.ret{
+    background-color: #B87F15;
+    color: white;
+        font-size: 20px;
+        padding: 10px;
+        border: none;
+        margin-left: 20px;
+    }
+    .ret:hover{
+        background-color: #eea111;
+    }
+    .demo{
+        border: none;
+        background-color: white;
+        color: #0E0A47;
+    }
+    .demo:hover{
+        background-color: #D7E0FF;
+    }
+    .tata{
+        margin-left: 10px;
+    }
+    .teret{
+        width: 10%;
+        height: 10vh;
+        margin-left: -100px;
+        margin-top: -100px;
+    }
+    
+}
